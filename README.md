@@ -1,2 +1,11 @@
 # blackarch-gui-installer
-BlackArch Packages GUI Installer
+- GUI INSTALLER
+
+### INSTALLATION
+```bash
+git clone https://github.com/bunnyhop-dev/blackarch-gui-installer && cd blackarch-gui-installer
+makepkg -si
+```
+
+### AUTHOR
+```LUNA TEAM```
